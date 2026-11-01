@@ -70,7 +70,7 @@ This project also demonstrates asynchronous programming using:
 3. Navigate to the project directory:
 
    ```bash
-   cd YOUR-REPOSITORY
+   cd MDT---LAB-3
    ```
 
 4. Run the application:
