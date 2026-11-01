@@ -64,7 +64,7 @@ This project also demonstrates asynchronous programming using:
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone https://github.com/alamadarehan-hash/-MDT---LAB-3
    ```
 
 3. Navigate to the project directory:
